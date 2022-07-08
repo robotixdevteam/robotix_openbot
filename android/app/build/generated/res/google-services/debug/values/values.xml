@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1062508888733-jlrr946jdlv59vgpt7h1oa91n9gs0hd2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1062508888733</string>
+    <string name="google_api_key" translatable="false">AIzaSyCD59-IMWo1ZKzp-gMoTG6eKIkza_8XVYg</string>
+    <string name="google_app_id" translatable="false">1:1062508888733:android:0fc8c6a8842e1ff5510a74</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCD59-IMWo1ZKzp-gMoTG6eKIkza_8XVYg</string>
+    <string name="google_storage_bucket" translatable="false">openbot-public.appspot.com</string>
+    <string name="project_id" translatable="false">openbot-public</string>
+</resources>

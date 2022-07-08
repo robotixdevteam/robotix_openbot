@@ -1,0 +1,325 @@
+org/openbot/server/ServerListener.java
+ org.openbot.server.ServerListener
+org/openbot/utils/MovingAverage.java
+ org.openbot.utils.MovingAverage
+org/openbot/common/CameraFragment.java
+ org.openbot.common.CameraFragment
+org/openbot/robot/FreeRoamFragment.java
+ org.openbot.robot.FreeRoamFragment
+ org.openbot.robot.FreeRoamFragment$1
+org/openbot/tflite/AutopilotFloat.java
+ org.openbot.tflite.AutopilotFloat
+org/openbot/utils/PermissionUtils.java
+ org.openbot.utils.PermissionUtils
+org/openbot/utils/FileUtils.java
+ org.openbot.utils.FileUtils
+ org.openbot.utils.FileUtils$1
+ org.openbot.utils.FileUtils$2
+org/openbot/server/NsdService.java
+ org.openbot.server.NsdService
+ org.openbot.server.NsdService$1
+org/openbot/env/AudioPlayer.java
+ org.openbot.env.AudioPlayer
+ org.openbot.env.AudioPlayer$1
+org/openbot/logging/LogDataUtils.java
+ org.openbot.logging.LogDataUtils
+org/openbot/databinding/LayoutBottomSheetBinding.java
+ org.openbot.databinding.LayoutBottomSheetBinding
+org/openbot/env/GameController.java
+ org.openbot.env.GameController
+ org.openbot.env.GameController$1
+org/openbot/env/PhoneController.java
+ org.openbot.env.PhoneController
+ org.openbot.env.PhoneController$DataReceived
+org/openbot/vehicle/Noise.java
+ org.openbot.vehicle.Noise
+org/openbot/logging/LoggerFragment.java
+ org.openbot.logging.LoggerFragment
+ org.openbot.logging.LoggerFragment$1
+ org.openbot.logging.LoggerFragment$2
+ org.openbot.logging.LoggerFragment$3
+org/openbot/main/CategoryAdapter.java
+ org.openbot.main.CategoryAdapter
+ org.openbot.main.CategoryAdapter$ViewHolder
+org/openbot/databinding/FragmentFreeRoamBinding.java
+ org.openbot.databinding.FragmentFreeRoamBinding
+org/openbot/tflite/Network.java
+ org.openbot.tflite.Network
+ org.openbot.tflite.Network$1
+ org.openbot.tflite.Network$Device
+org/openbot/tracking/MultiBoxTracker.java
+ org.openbot.tracking.MultiBoxTracker
+ org.openbot.tracking.MultiBoxTracker$1
+ org.openbot.tracking.MultiBoxTracker$TrackedRecognition
+org/openbot/utils/CameraUtils.java
+ org.openbot.utils.CameraUtils
+ org.openbot.utils.CameraUtils$CompareSizesByArea
+org/openbot/customview/WebRTCSurfaceView.java
+ org.openbot.customview.WebRTCSurfaceView
+org/openbot/env/Logger.java
+ org.openbot.env.Logger
+org/openbot/databinding/ActivityCameraBinding.java
+ org.openbot.databinding.ActivityCameraBinding
+org/openbot/original/DefaultActivity.java
+ org.openbot.original.DefaultActivity
+ org.openbot.original.DefaultActivity$1
+org/openbot/databinding/FragmentMainBinding.java
+ org.openbot.databinding.FragmentMainBinding
+org/openbot/env/SharedPreferencesManager.java
+ org.openbot.env.SharedPreferencesManager
+org/openbot/env/ControllerConfig.java
+ org.openbot.env.ControllerConfig
+ org.openbot.env.ControllerConfig$VIDEO_SERVER_TYPE
+org/openbot/env/NearbyConnection.java
+ org.openbot.env.NearbyConnection
+ org.openbot.env.NearbyConnection$1
+ org.openbot.env.NearbyConnection$2
+ org.openbot.env.NearbyConnection$3
+ org.openbot.env.NearbyConnection$CancelableDiscovery
+ org.openbot.env.NearbyConnection$CancelableDiscovery$StopDiscoveryTask
+org/openbot/utils/FormatUtils.java
+ org.openbot.utils.FormatUtils
+org/openbot/tflite/DetectorQuantizedMobileNet.java
+ org.openbot.tflite.DetectorQuantizedMobileNet
+org/openbot/env/ILocalConnection.java
+ org.openbot.env.ILocalConnection
+org/openbot/modelManagement/EditModelDialogFragment.java
+ org.openbot.modelManagement.EditModelDialogFragment
+ org.openbot.modelManagement.EditModelDialogFragment$1
+org/openbot/env/Size.java
+ org.openbot.env.Size
+org/openbot/main/MainActivity.java
+ org.openbot.main.MainActivity
+ org.openbot.main.MainActivity$1
+org/openbot/databinding/ItemSubCategoryBinding.java
+ org.openbot.databinding.ItemSubCategoryBinding
+org/openbot/databinding/DialogEditModelBinding.java
+ org.openbot.databinding.DialogEditModelBinding
+org/openbot/env/ConnectionMonitor.java
+ org.openbot.env.ConnectionMonitor
+ org.openbot.env.ConnectionMonitor$WifiReceiver
+org/openbot/BuildConfig.java
+ org.openbot.BuildConfig
+org/openbot/tflite/Model.java
+ org.openbot.tflite.Model
+ org.openbot.tflite.Model$CLASS
+ org.openbot.tflite.Model$PATH_TYPE
+ org.openbot.tflite.Model$TYPE
+org/openbot/databinding/ControlButtonsBinding.java
+ org.openbot.databinding.ControlButtonsBinding
+org/openbot/databinding/ItemSensorBinding.java
+ org.openbot.databinding.ItemSensorBinding
+org/openbot/env/ImageUtils.java
+ org.openbot.env.ImageUtils
+org/openbot/customview/AutoFitSurfaceView.java
+ org.openbot.customview.AutoFitSurfaceView
+org/openbot/databinding/FragmentAutopilotBinding.java
+ org.openbot.databinding.FragmentAutopilotBinding
+org/openbot/databinding/ItemModelRadioBinding.java
+ org.openbot.databinding.ItemModelRadioBinding
+org/openbot/customview/AutoFitSurfaceGlView.java
+ org.openbot.customview.AutoFitSurfaceGlView
+org/openbot/env/IDataReceived.java
+ org.openbot.env.IDataReceived
+org/openbot/logging/SensorListAdapter.java
+ org.openbot.logging.SensorListAdapter
+ org.openbot.logging.SensorListAdapter$ViewHolder
+org/openbot/modelManagement/BackHandlingFilePickerActivity.java
+ org.openbot.modelManagement.BackHandlingFilePickerActivity
+org/openbot/env/WebRtcServer.java
+ org.openbot.env.WebRtcServer
+ org.openbot.env.WebRtcServer$1
+ org.openbot.env.WebRtcServer$2
+ org.openbot.env.WebRtcServer$3
+ org.openbot.env.WebRtcServer$SignalingHandler
+org/openbot/vehicle/Indicator.java
+ org.openbot.vehicle.Indicator
+org/openbot/databinding/CameraConnectionFragmentBinding.java
+ org.openbot.databinding.CameraConnectionFragmentBinding
+org/openbot/main/MainViewModel.java
+ org.openbot.main.MainViewModel
+org/openbot/model/Category.java
+ org.openbot.model.Category
+org/openbot/utils/ConnectionUtils.java
+ org.openbot.utils.ConnectionUtils
+org/openbot/databinding/FragmentControllerMappingBinding.java
+ org.openbot.databinding.FragmentControllerMappingBinding
+org/openbot/objectNav/ObjectNavFragment.java
+ org.openbot.objectNav.ObjectNavFragment
+ org.openbot.objectNav.ObjectNavFragment$1
+ org.openbot.objectNav.ObjectNavFragment$2
+ org.openbot.objectNav.ObjectNavFragment$3
+org/openbot/utils/AndGate.java
+ org.openbot.utils.AndGate
+ org.openbot.utils.AndGate$Action
+ org.openbot.utils.AndGate$Condition
+org/openbot/common/FeatureList.java
+ org.openbot.common.FeatureList
+org/openbot/env/IVideoServer.java
+ org.openbot.env.IVideoServer
+org/openbot/controller/ControllerMappingFragment.java
+ org.openbot.controller.ControllerMappingFragment
+org/openbot/env/BorderedText.java
+ org.openbot.env.BorderedText
+org/openbot/model/SubCategory.java
+ org.openbot.model.SubCategory
+org/openbot/main/SubCategoryAdapter.java
+ org.openbot.main.SubCategoryAdapter
+ org.openbot.main.SubCategoryAdapter$ViewHolder
+org/openbot/tflite/DetectorFloatYoloV4.java
+ org.openbot.tflite.DetectorFloatYoloV4
+org/openbot/databinding/CameraConnectionFragmentTrackingBinding.java
+ org.openbot.databinding.CameraConnectionFragmentTrackingBinding
+org/openbot/customview/AutoFitTextureView.java
+ org.openbot.customview.AutoFitTextureView
+org/openbot/env/RtspServer.java
+ org.openbot.env.RtspServer
+org/openbot/modelManagement/BackHandlingFilePickerFragment.java
+ org.openbot.modelManagement.BackHandlingFilePickerFragment
+org/openbot/logging/SensorService.java
+ org.openbot.logging.SensorService
+ org.openbot.logging.SensorService$1
+ org.openbot.logging.SensorService$SensorMessageHandler
+org/openbot/main/SettingsFragment.java
+ org.openbot.main.SettingsFragment
+org/openbot/env/NetworkServiceConnection.java
+ org.openbot.env.NetworkServiceConnection
+ org.openbot.env.NetworkServiceConnection$1
+ org.openbot.env.NetworkServiceConnection$2
+ org.openbot.env.NetworkServiceConnection$2$1
+ org.openbot.env.NetworkServiceConnection$3
+ org.openbot.env.NetworkServiceConnection$4
+ org.openbot.env.NetworkServiceConnection$SocketHandler
+ org.openbot.env.NetworkServiceConnection$SocketHandler$ClientInfo
+org/openbot/tflite/Detector.java
+ org.openbot.tflite.Detector
+ org.openbot.tflite.Detector$1
+ org.openbot.tflite.Detector$2
+ org.openbot.tflite.Detector$Recognition
+org/openbot/utils/Enums.java
+ org.openbot.utils.Enums
+ org.openbot.utils.Enums$1
+ org.openbot.utils.Enums$ControlMode
+ org.openbot.utils.Enums$Direction
+ org.openbot.utils.Enums$DriveMode
+ org.openbot.utils.Enums$LogMode
+ org.openbot.utils.Enums$Preview
+ org.openbot.utils.Enums$SensorType
+ org.openbot.utils.Enums$SpeedMode
+ org.openbot.utils.Enums$VehicleIndicator
+org/openbot/vehicle/Control.java
+ org.openbot.vehicle.Control
+org/openbot/databinding/ActivityMainBinding.java
+ org.openbot.databinding.ActivityMainBinding
+org/openbot/databinding/DialogSensorsBinding.java
+ org.openbot.databinding.DialogSensorsBinding
+org/openbot/modelManagement/ModelManagementFragment.java
+ org.openbot.modelManagement.ModelManagementFragment
+ org.openbot.modelManagement.ModelManagementFragment$1
+ org.openbot.modelManagement.ModelManagementFragment$2
+org/openbot/original/CameraConnectionFragment.java
+ org.openbot.original.CameraConnectionFragment
+ org.openbot.original.CameraConnectionFragment$1
+ org.openbot.original.CameraConnectionFragment$2
+ org.openbot.original.CameraConnectionFragment$3
+ org.openbot.original.CameraConnectionFragment$4
+ org.openbot.original.CameraConnectionFragment$5
+ org.openbot.original.CameraConnectionFragment$ConnectionCallback
+ org.openbot.original.CameraConnectionFragment$ErrorDialog
+ org.openbot.original.CameraConnectionFragment$ErrorDialog$1
+org/openbot/customview/RecognitionScoreView.java
+ org.openbot.customview.RecognitionScoreView
+org/openbot/common/ControlsFragment.java
+ org.openbot.common.ControlsFragment
+ org.openbot.common.ControlsFragment$1
+ org.openbot.common.ControlsFragment$2
+org/openbot/modelManagement/ModelAdapter.java
+ org.openbot.modelManagement.ModelAdapter
+ org.openbot.modelManagement.ModelAdapter$OnItemClickListener
+ org.openbot.modelManagement.ModelAdapter$ViewHolder
+org/openbot/databinding/ItemCategoryBinding.java
+ org.openbot.databinding.ItemCategoryBinding
+org/openbot/utils/Constants.java
+ org.openbot.utils.Constants
+org/openbot/logging/SensorsDialog.java
+ org.openbot.logging.SensorsDialog
+ org.openbot.logging.SensorsDialog$1
+org/openbot/env/SensorReading.java
+ org.openbot.env.SensorReading
+org/openbot/autopilot/AutopilotFragment.java
+ org.openbot.autopilot.AutopilotFragment
+ org.openbot.autopilot.AutopilotFragment$1
+ org.openbot.autopilot.AutopilotFragment$2
+org/openbot/customview/OverlayView.java
+ org.openbot.customview.OverlayView
+ org.openbot.customview.OverlayView$DrawCallback
+org/openbot/main/OnItemClickListener.java
+ org.openbot.main.OnItemClickListener
+org/openbot/databinding/SpinnerItemBinding.java
+ org.openbot.databinding.SpinnerItemBinding
+org/openbot/databinding/ItemModelBinding.java
+ org.openbot.databinding.ItemModelBinding
+org/openbot/main/MainFragment.java
+ org.openbot.main.MainFragment
+org/openbot/OpenBotApplication.java
+ org.openbot.OpenBotApplication
+ org.openbot.OpenBotApplication$1
+org/openbot/server/ServerCommunication.java
+ org.openbot.server.ServerCommunication
+ org.openbot.server.ServerCommunication$1
+ org.openbot.server.ServerCommunication$2
+ org.openbot.server.ServerCommunication$3
+ org.openbot.server.ServerCommunication$3$1
+ org.openbot.server.ServerCommunication$4
+ org.openbot.server.ServerCommunication$UploadResponseHandler
+org/openbot/databinding/FragmentModelManagementBinding.java
+ org.openbot.databinding.FragmentModelManagementBinding
+org/openbot/tflite/Autopilot.java
+ org.openbot.tflite.Autopilot
+org/openbot/vehicle/Vehicle.java
+ org.openbot.vehicle.Vehicle
+ org.openbot.vehicle.Vehicle$1
+ org.openbot.vehicle.Vehicle$HeartBeatTask
+ org.openbot.vehicle.Vehicle$NoiseTask
+org/openbot/env/SimpleSdpObserver.java
+ org.openbot.env.SimpleSdpObserver
+org/openbot/customview/ResultsView.java
+ org.openbot.customview.ResultsView
+org/openbot/databinding/FragmentObjectNavBinding.java
+ org.openbot.databinding.FragmentObjectNavBinding
+org/openbot/env/ControllerToBotEventBus.java
+ org.openbot.env.ControllerToBotEventBus
+org/openbot/env/ConnectionSelector.java
+ org.openbot.env.ConnectionSelector
+org/openbot/databinding/FragmentLoggerBinding.java
+ org.openbot.databinding.FragmentLoggerBinding
+org/openbot/utils/MarginItemDecoration.java
+ org.openbot.utils.MarginItemDecoration
+org/openbot/vehicle/UsbConnection.java
+ org.openbot.vehicle.UsbConnection
+ org.openbot.vehicle.UsbConnection$1
+org/openbot/original/CameraActivity.java
+ org.openbot.original.CameraActivity
+ org.openbot.original.CameraActivity$1
+ org.openbot.original.CameraActivity$2
+ org.openbot.original.CameraActivity$3
+ org.openbot.original.CameraActivity$4
+ org.openbot.original.CameraActivity$5
+ org.openbot.original.CameraActivity$6
+ org.openbot.original.CameraActivity$7
+ org.openbot.original.CameraActivity$8
+ org.openbot.original.CameraActivity$9
+ org.openbot.original.CameraActivity$ControllerHandler
+org/openbot/original/LegacyCameraConnectionFragment.java
+ org.openbot.original.LegacyCameraConnectionFragment
+ org.openbot.original.LegacyCameraConnectionFragment$1
+org/openbot/databinding/FragmentCameraBinding.java
+ org.openbot.databinding.FragmentCameraBinding
+org/openbot/env/BotToControllerEventBus.java
+ org.openbot.env.BotToControllerEventBus
+org/openbot/utils/DelayedRunner.java
+ org.openbot.utils.DelayedRunner
+org/openbot/utils/PostProcessingEnabler.java
+ org.openbot.utils.PostProcessingEnabler
+ org.openbot.utils.PostProcessingEnabler$1
+ org.openbot.utils.PostProcessingEnabler$PostProcessable

@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_game.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_game.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_top.png.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable-xxhdpi\\top.png"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_electric_car.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_electric_car.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_bottom_sheet.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_remove.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_baseline_remove.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_arrow.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_play_arrow.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_free_roam.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\fragment_free_roam.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logger_toggle.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\logger_toggle.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_usb.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_usb.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_drawable_battery.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\progress_drawable_battery.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_root_preferences.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_control_buttons.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\control_buttons.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_controller_mapping.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\fragment_controller_mapping.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_sheet_bg.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\bottom_sheet_bg.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_openbot_icon.png.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable-xhdpi\\openbot_icon.png"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_network.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_network.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_baseline_add.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_blink.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_24.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_check_24.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_model_management.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_model_management.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dual.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_dual.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_speed_medium.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_speed_medium.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_controller.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_controller.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_circle_selected.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_circle_selected.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_speed_high.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_speed_high.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_free_roam.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_free_roam.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_autopilot.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_autopilot.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_sensor.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_sensor.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_category.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_category.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_logger.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_logger.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_sub_category.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_sub_category.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_usb_toggle.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\usb_toggle.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_speed_low.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_speed_low.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_object_nav.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\fragment_object_nav.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_usb_off.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_usb_off.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_storage.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_storage.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_items.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\menu\\menu_items.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_search.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_person_search.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_dialog_sensors.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\dialog_sensors.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stop.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_edit_model.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\dialog_edit_model.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_drawable_sonar.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\progress_drawable_sonar.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_openbot_icon.png.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable-hdpi\\openbot_icon.png"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_code.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_code.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_battery_full.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_battery_full.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_object_nav.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_object_nav.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit_48.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_edit_48.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background_border.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\button_background_border.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_progress_bar.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_circle.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_outline_circle.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_24.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_delete_24.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_voice_over.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_voice_over.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_openbot_icon.png.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable-xxhdpi\\openbot_icon.png"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phonelink.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_phonelink.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_down.png"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_car_steering_wheel.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_car_steering_wheel.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gamepad_outline.png.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable-xxhdpi\\gamepad_outline.png"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_openbot_icon.png.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\openbot_icon.png"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_autopilot.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_autopilot.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_layout_bottom_sheet.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_battery_outline.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_battery_outline.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_logger.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\fragment_logger.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit_24.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_edit_24.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_autopilot.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\fragment_autopilot.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cameraswitch.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_cameraswitch.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_openbot_icon.png.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable-mdpi\\openbot_icon.png"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_joystick.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_joystick.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_bg.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\spinner_bg.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_sensors.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\dialog_sensors.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_map.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_model_radio.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_model_radio.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_model.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_model.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cloud_upload.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_cloud_upload.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_controller_mapping.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_controller_mapping.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_item_background_black.xml.flat",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\button_item_background_black.xml"
+    }
+]

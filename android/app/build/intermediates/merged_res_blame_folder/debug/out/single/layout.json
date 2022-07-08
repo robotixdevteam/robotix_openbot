@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_autopilot.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_autopilot.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_object_nav.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_object_nav.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_sensor.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_sensor.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_model_management.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_model_management.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_model.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_model.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_controller_mapping.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_controller_mapping.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\camera_connection_fragment.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_sensors.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\dialog_sensors.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_bottom_sheet.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_sub_category.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_sub_category.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_category.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_category.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\camera_connection_fragment_tracking.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_logger.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_logger.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\spinner_item.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_edit_model.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\dialog_edit_model.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_model_radio.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_model_radio.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_camera.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\control_buttons.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\control_buttons.xml"
+    },
+    {
+        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_free_roam.xml",
+        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_free_roam.xml"
+    }
+]
