@@ -15,7 +15,7 @@ public class FeatureList {
   public static final String LEGACY = "Legacy";
   public static final String DEFAULT = "Default";
   public static final String CONTROLLER = "Controller";
-  public static final String CONTROLLER_MAPPING = "Controller Mapping";
+//  public static final String CONTROLLER_MAPPING = "Controller Mapping";
 
   // Game
   public static final String GAME = "Game";
@@ -75,7 +75,7 @@ public class FeatureList {
     subCategories = new ArrayList<>();
     subCategories.add(new SubCategory(FREE_ROAM, R.drawable.ic_game, "#FFFF6D00"));
     subCategories.add(new SubCategory(DATA_COLLECTION, R.drawable.ic_storage, "#93C47D"));
-    subCategories.add(new SubCategory(CONTROLLER_MAPPING, R.drawable.ic_joystick, "#7268A6"));
+//    subCategories.add(new SubCategory(CONTROLLER_MAPPING, R.drawable.ic_joystick, "#7268A6"));
     categories.add(new Category(GENERAL, subCategories));
 
     subCategories = new ArrayList<>();

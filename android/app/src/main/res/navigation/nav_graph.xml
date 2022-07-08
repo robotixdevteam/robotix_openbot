@@ -19,9 +19,9 @@
         <action
             android:id="@+id/action_mainFragment_to_autopilotFragment"
             app:destination="@id/AIFragment" />
-        <action
-            android:id="@+id/action_mainFragment_to_controllerMappingFragment"
-            app:destination="@id/controllerMappingFragment" />
+<!--        <action-->
+<!--            android:id="@+id/action_mainFragment_to_controllerMappingFragment"-->
+<!--            app:destination="@id/controllerMappingFragment" />-->
         <action
             android:id="@+id/action_mainFragment_to_objectNavFragment"
             app:destination="@id/objectNavFragment" />
@@ -55,11 +55,11 @@
         android:label="fragment_ai"
         tools:layout="@layout/fragment_autopilot" />
 
-    <fragment
-        android:id="@+id/controllerMappingFragment"
-        android:name="org.openbot.controller.ControllerMappingFragment"
-        android:label="fragment_controller_mapping"
-        tools:layout="@layout/fragment_controller_mapping" />
+<!--    <fragment-->
+<!--        android:id="@+id/controllerMappingFragment"-->
+<!--        android:name="org.openbot.controller.ControllerMappingFragment"-->
+<!--        android:label="fragment_controller_mapping"-->
+<!--        tools:layout="@layout/fragment_controller_mapping" />-->
     <fragment
         android:id="@+id/objectNavFragment"
         android:name="org.openbot.objectNav.ObjectNavFragment"

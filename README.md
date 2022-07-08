@@ -16,7 +16,7 @@
 </p> -->
 
 <p align="center">
-  <span>English</span> |
+  <span>English</span>
   
 </p>
 
@@ -25,7 +25,7 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
 ## Video
 
 <a href="https://www.youtube.com/watch?v=qc8hFLyWDOM" >
-  <img align="center" width="500" alt="youtube video" src="docs/images/youtube.jpg" />
+  <img align="center" width="500" alt="youtube video" src="https://img.youtube.com/vi/qc8hFLyWDOM/hqdefault.jpg" />
 </a>
 
 ## Get started with OpenBot
@@ -37,7 +37,7 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
 
 ## Get the source code
 
-- You can download the repo as a [zip file](https://github.com/intel-isl/OpenBot/archive/master.zip) and extract it into a folder of your choice.
+- You can download the repo as a [zip file](https://github.com/robotixdevteam/robotix_openbot/archive/refs/heads/main.zip) and extract it into a folder of your choice.
 - You can clone the OpenBot repository from GitHub with the following command:
     ```bash
     git clone https://github.com/robotixdevteam/robotix_openbot.git

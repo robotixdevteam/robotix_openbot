@@ -2117,7 +2117,6 @@ id action_context_bar
 id action_divider
 id action_image
 id action_mainFragment_to_autopilotFragment
-id action_mainFragment_to_controllerMappingFragment
 id action_mainFragment_to_loggerFragment
 id action_mainFragment_to_modelManagementFragment
 id action_mainFragment_to_objectNavFragment
@@ -2164,16 +2163,7 @@ id bottom
 id bottom_sheet_arrow
 id bottom_sheet_layout
 id bounce
-id btnA
-id btnB
-id btnL1
-id btnL2
-id btnR1
-id btnR2
-id btnX
-id btnY
 id btn_submit
-id buttonContainer
 id buttonPanel
 id cache_measures
 id camera_toggle
@@ -2220,7 +2210,6 @@ id controlModeTitle
 id control_info
 id control_mode_spinner
 id controllerContainer
-id controllerMappingFragment
 id coordinator
 id cos
 id counterclockwise
@@ -2228,7 +2217,6 @@ id crop_info
 id custom
 id customPanel
 id cut
-id dPad
 id dark
 id date_picker_actions
 id debug_overlay
@@ -2342,10 +2330,6 @@ id ipAddress
 id italic
 id item_icon
 id item_touch_helper_previous_elevation
-id joyLeft
-id joyLeftTip
-id joyRight
-id joyRightTip
 id jumpToEnd
 id jumpToStart
 id label_battery
@@ -2573,7 +2557,6 @@ id src_in
 id src_over
 id standard
 id start
-id startButton
 id startHorizontal
 id startToEnd
 id startVertical
@@ -2761,7 +2744,6 @@ layout dialog_sensors
 layout expand_button
 layout fragment_autopilot
 layout fragment_camera
-layout fragment_controller_mapping
 layout fragment_free_roam
 layout fragment_logger
 layout fragment_main

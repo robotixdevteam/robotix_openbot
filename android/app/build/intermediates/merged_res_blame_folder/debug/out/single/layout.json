@@ -20,10 +20,6 @@
         "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\item_model.xml"
     },
     {
-        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_controller_mapping.xml",
-        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_controller_mapping.xml"
-    },
-    {
         "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\camera_connection_fragment.xml",
         "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\camera_connection_fragment.xml"
     },

@@ -1,18 +1,18 @@
 # OpenBot Nodejs Controller
 
-Last updated: Dec 20, 2021
+Last updated: July 8, 2022
 
 ## Nomenclature
 
 Here are some terms we will be using in this document:
 
-* ```Robot, bot``` - this is the Android software running on the phone on the [OpenBot](https://www.openbot.org/) vehicle. 
+* ```Robot, bot``` - this is the Android software running on the phone on the OpenBot vehicle. 
 * ```Server``` - the node server, the server part of this project
 * ```Client, UI``` - this is the client part of this project. It runs in the browser.
 
 ## Introduction
 
-This is a [Node.js](https://nodejs.org/) based project acting as a controller for the [OpenBot](https://www.openbot.org/) vehicle. The software comprises two parts - a server and a client. The server is a Node.js application running on a computer on the same network as the Robot. The client part runs in the browser.
+This is a [Node.js](https://nodejs.org/) based project acting as a controller for the OpenBot vehicle. The software comprises two parts - a server and a client. The server is a Node.js application running on a computer on the same network as the Robot. The client part runs in the browser.
 
 Here is a screenshot of the browser:
 
@@ -20,22 +20,22 @@ Here is a screenshot of the browser:
 
 ## Getting Started
 
-You can run this software on a PC, RaspberryPi-type device or even [Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/) devices which support ```Node.js``` environment. First make sure you have installed [Node.js](https://nodejs.org/), version 10 or newer. Check the version:
+You can run this software on a PC or Laptop devices which support ```Node.js``` environment. First make sure you have installed [Node.js](https://nodejs.org/), version 16. Check the version:
 
     node --version
 
-The software is located in the ```/controller/node-js``` directory of the OpenBot project. After checking out the code from [github](https://github.com/isl-org/OpenBot), change into this directory and run the following commands:
+The software is located in the ```/controller/node-js``` directory of the OpenBot project. After checking out the code from [github](https://github.com/robotixdevteam/robotix_openbot), change into this directory and run the following commands:
 
     npm install
     npm start
 
-The last command will start the server. If you like to run the server without a terminal in the background, on ```Linux/MacOS``` you can run:
+<!-- The last command will start the server. If you like to run the server without a terminal in the background, on ```Linux/MacOS``` you can run:
 
     npm run start-nohup
 
 or just:
 
-    nohup npm start
+    nohup npm start -->
 
 Point your browser to the server’s  IP address at port 8081, for example [http://localhost:8081](http://localhost:8081), or [http://192.168.1.100:8081](http://192.168.1.100:8081). Note that you can access the server from a different computer, but the Robot, server and browser PC need to be on the same network. In the future we can add the ability to access the server remotely.
 
@@ -49,7 +49,7 @@ Make sure your Robot is connected on the same network. On the Robot Android app,
 
 3. In addition, the node server creates a WebSocket server at port 7071. This will be used to communicate to the browser directly. So, to summarise so far, the server has created two Socket connections, one to the Robot and one to the Browser.
 
-4. The user enters keyboard commands from the browser. These keypresses are sent to the Server via the WebSocket. The server converts these to commands that the Robot can understand, like ```{driveCmd: {r:0.4, l:0.34}}``` (a list of all commands can be found in the documentation for the Android controller [here](https://github.com/isl-org/OpenBot/blob/master/docs/technical/OpenBotController.pdf)). These commands are sent to the Robot via the Socket connection.
+4. The user enters keyboard commands from the browser. These keypresses are sent to the Server via the WebSocket. The server converts these to commands that the Robot can understand, like ```{driveCmd: {r:0.4, l:0.34}}```. These commands are sent to the Robot via the Socket connection.
 
 5. The Robot sends status information back to the server on the Socket connection, and the server forwards it to the UI. The UI can use this information to enhance its appearance, like displaying blinking indicators, etc, but currently this status is ignored.
 
@@ -57,21 +57,21 @@ Make sure your Robot is connected on the same network. On the Robot Android app,
 
 ![drawing](images/HowItWorks.png)
 
-## Development
+<!-- ## Development
 
 This code uses [snowpack](https://www.snowpack.dev/) for a fast, lightweight building tool.
 
 We use [eslint](https://eslint.org/) for linting and automatically formatting your code. It is recommended that you run lint and fix any errors before committing new code. If you are using Visual Code, you can get a plugin [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint). Run the linter like this:
 
-    npm run lint
+    npm run lint -->
 
-## Production
+<!-- ## Production
 
 To build a production version of the ```client```, run:
 
     npm run build
 
-This will optimize the client code into a ```build``` directory, which can be deplyed on a server. In addition we need to setup a process manager to restart the server, and possibly a reverse proxy like [nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/), which is not yet done.
+This will optimize the client code into a ```build``` directory, which can be deplyed on a server. In addition we need to setup a process manager to restart the server, and possibly a reverse proxy like [nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/), which is not yet done. -->
 
 ## Troubleshooting
 

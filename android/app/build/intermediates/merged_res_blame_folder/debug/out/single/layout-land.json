@@ -22,9 +22,5 @@
     {
         "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\dialog_sensors.xml",
         "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\dialog_sensors.xml"
-    },
-    {
-        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_controller_mapping.xml",
-        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\fragment_controller_mapping.xml"
     }
 ]

@@ -1,7 +1,7 @@
 # Firmware
 
 <p align="center">
-  <span>English</span> |
+  <span>English</span>
 </p>
 
 We use a microcontroller unit (MCU) to act as a bridge between the robot body and the smartphone.  We provide our [firmware](openbot_uno/openbot_arduino_firmware.ino) for the Arduino Uno.

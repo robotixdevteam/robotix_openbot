@@ -1,7 +1,7 @@
 # Android Apps
 
 <p align="center">
-  <span>English</span> |
+  <span>English</span>
   
 </p>
 

@@ -21,7 +21,7 @@ MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] C:\Users\robot\.gradle\ca
 MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\6082893bf69eb65342d7bb24574d87c9\jetified-play-services-location-19.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-nearby:18.0.2] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\a1c987b37a948274b1f1fcefbf070d04\jetified-play-services-nearby-18.0.2\AndroidManifest.xml:2:1-17:12
 MERGED from [com.github.felHR85:UsbSerial:6.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\8266f78f97d9789037fc7201fd30e3f6\jetified-UsbSerial-6.1.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\dc2635647673d99193b34efaf0f36adc\jetified-filepicker-4.1.0\AndroidManifest.xml:7:1-19:12
+MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\3fee16e9f8f60e9ae8bfa2c46282fc5a\jetified-filepicker-4.1.0\AndroidManifest.xml:7:1-19:12
 MERGED from [com.koushikdutta.ion:ion:3.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\b602a1a9981ae9ad4889251104d5c215\jetified-ion-3.1.0\AndroidManifest.xml:2:1-16:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\be2da6ff32882350097fe2f7d59b15b1\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\9209a9423f768993fc76908020a5b11a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -71,7 +71,7 @@ MERGED from [androidx.activity:activity:1.2.3] C:\Users\robot\.gradle\caches\tra
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\a2ec3e1c00fb07a8c5bea4ee54eab153\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\a9c160c839086352f2b44e6cbe7a8e44\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.anastr:speedviewlib:1.5.3] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\092d504a86725626accca41439b3131e\jetified-speedviewlib-1.5.3\AndroidManifest.xml:2:1-14:12
-MERGED from [org.webrtc:google-webrtc:1.0.32006] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\f783837be57f00c67d6a8063e54070d5\jetified-google-webrtc-1.0.32006\AndroidManifest.xml:11:1-14:12
+MERGED from [org.webrtc:google-webrtc:1.0.32006] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\da45b7d0c07038f5ba6b5ef78bb1e7cb\jetified-google-webrtc-1.0.32006\AndroidManifest.xml:11:1-14:12
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\08864b8232f3dc01866f2451dfbfa995\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\1473f455e2269c1adf7cefc18b4ef564\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\3cc3a48a9c8a612463e89a944787fe86\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -242,8 +242,8 @@ MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\robo
 MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\6082893bf69eb65342d7bb24574d87c9\jetified-play-services-location-19.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-nearby:18.0.2] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\a1c987b37a948274b1f1fcefbf070d04\jetified-play-services-nearby-18.0.2\AndroidManifest.xml:9:5-15:19
 MERGED from [com.google.android.gms:play-services-nearby:18.0.2] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\a1c987b37a948274b1f1fcefbf070d04\jetified-play-services-nearby-18.0.2\AndroidManifest.xml:9:5-15:19
-MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\dc2635647673d99193b34efaf0f36adc\jetified-filepicker-4.1.0\AndroidManifest.xml:17:5-20
-MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\dc2635647673d99193b34efaf0f36adc\jetified-filepicker-4.1.0\AndroidManifest.xml:17:5-20
+MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\3fee16e9f8f60e9ae8bfa2c46282fc5a\jetified-filepicker-4.1.0\AndroidManifest.xml:17:5-20
+MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\3fee16e9f8f60e9ae8bfa2c46282fc5a\jetified-filepicker-4.1.0\AndroidManifest.xml:17:5-20
 MERGED from [com.koushikdutta.ion:ion:3.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\b602a1a9981ae9ad4889251104d5c215\jetified-ion-3.1.0\AndroidManifest.xml:13:5-14:19
 MERGED from [com.koushikdutta.ion:ion:3.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\b602a1a9981ae9ad4889251104d5c215\jetified-ion-3.1.0\AndroidManifest.xml:13:5-14:19
 MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\5fa6268dda835522654f2ac0413ec12b\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:7:5-20
@@ -402,8 +402,8 @@ MERGED from [com.google.android.gms:play-services-nearby:18.0.2] C:\Users\robot\
 MERGED from [com.google.android.gms:play-services-nearby:18.0.2] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\a1c987b37a948274b1f1fcefbf070d04\jetified-play-services-nearby-18.0.2\AndroidManifest.xml:5:5-44
 MERGED from [com.github.felHR85:UsbSerial:6.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\8266f78f97d9789037fc7201fd30e3f6\jetified-UsbSerial-6.1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.felHR85:UsbSerial:6.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\8266f78f97d9789037fc7201fd30e3f6\jetified-UsbSerial-6.1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\dc2635647673d99193b34efaf0f36adc\jetified-filepicker-4.1.0\AndroidManifest.xml:13:5-15:41
-MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\dc2635647673d99193b34efaf0f36adc\jetified-filepicker-4.1.0\AndroidManifest.xml:13:5-15:41
+MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\3fee16e9f8f60e9ae8bfa2c46282fc5a\jetified-filepicker-4.1.0\AndroidManifest.xml:13:5-15:41
+MERGED from [com.nononsenseapps:filepicker:4.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\3fee16e9f8f60e9ae8bfa2c46282fc5a\jetified-filepicker-4.1.0\AndroidManifest.xml:13:5-15:41
 MERGED from [com.koushikdutta.ion:ion:3.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\b602a1a9981ae9ad4889251104d5c215\jetified-ion-3.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.koushikdutta.ion:ion:3.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\b602a1a9981ae9ad4889251104d5c215\jetified-ion-3.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\be2da6ff32882350097fe2f7d59b15b1\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
@@ -502,8 +502,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\robot\.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\a9c160c839086352f2b44e6cbe7a8e44\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.github.anastr:speedviewlib:1.5.3] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\092d504a86725626accca41439b3131e\jetified-speedviewlib-1.5.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.anastr:speedviewlib:1.5.3] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\092d504a86725626accca41439b3131e\jetified-speedviewlib-1.5.3\AndroidManifest.xml:7:5-9:41
-MERGED from [org.webrtc:google-webrtc:1.0.32006] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\f783837be57f00c67d6a8063e54070d5\jetified-google-webrtc-1.0.32006\AndroidManifest.xml:13:3-72
-MERGED from [org.webrtc:google-webrtc:1.0.32006] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\f783837be57f00c67d6a8063e54070d5\jetified-google-webrtc-1.0.32006\AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.32006] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\da45b7d0c07038f5ba6b5ef78bb1e7cb\jetified-google-webrtc-1.0.32006\AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.32006] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\da45b7d0c07038f5ba6b5ef78bb1e7cb\jetified-google-webrtc-1.0.32006\AndroidManifest.xml:13:3-72
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\08864b8232f3dc01866f2451dfbfa995\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\08864b8232f3dc01866f2451dfbfa995\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\1473f455e2269c1adf7cefc18b4ef564\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41

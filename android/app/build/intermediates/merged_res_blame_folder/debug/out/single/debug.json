@@ -60,10 +60,6 @@
         "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\control_buttons.xml"
     },
     {
-        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_controller_mapping.xml.flat",
-        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout-land\\fragment_controller_mapping.xml"
-    },
-    {
         "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_sheet_bg.xml.flat",
         "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\drawable\\bottom_sheet_bg.xml"
     },
@@ -346,10 +342,6 @@
     {
         "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
         "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\xml\\provider_paths.xml"
-    },
-    {
-        "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_controller_mapping.xml.flat",
-        "source": "D:\\One\\OpenBot\\android\\app\\src\\main\\res\\layout\\fragment_controller_mapping.xml"
     },
     {
         "merged": "D:\\One\\OpenBot\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download.xml.flat",

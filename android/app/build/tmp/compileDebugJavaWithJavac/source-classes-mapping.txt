@@ -142,8 +142,6 @@ org/openbot/model/Category.java
  org.openbot.model.Category
 org/openbot/utils/ConnectionUtils.java
  org.openbot.utils.ConnectionUtils
-org/openbot/databinding/FragmentControllerMappingBinding.java
- org.openbot.databinding.FragmentControllerMappingBinding
 org/openbot/objectNav/ObjectNavFragment.java
  org.openbot.objectNav.ObjectNavFragment
  org.openbot.objectNav.ObjectNavFragment$1
@@ -157,8 +155,6 @@ org/openbot/common/FeatureList.java
  org.openbot.common.FeatureList
 org/openbot/env/IVideoServer.java
  org.openbot.env.IVideoServer
-org/openbot/controller/ControllerMappingFragment.java
- org.openbot.controller.ControllerMappingFragment
 org/openbot/env/BorderedText.java
  org.openbot.env.BorderedText
 org/openbot/model/SubCategory.java
