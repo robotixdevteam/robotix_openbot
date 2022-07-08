@@ -1,9 +1,5 @@
 # Android Apps
 
-<p align="center">
-  <span>English</span>
-  
-</p>
 
 ## Features
 

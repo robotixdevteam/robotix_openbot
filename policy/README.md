@@ -1,11 +1,6 @@
 
 # Driving Policy (Advanced)
 
-<p align="center">
-  <span>English</span> |
-  
-</p>
-
 ## DISCLAIMERS
 
 1. **Safety:** Driving policies are not perfect and may crash the robot. Always make sure you operate in a safe environment! Keep in mind, that your phone could be damaged in a collision! Make sure you always have a game controller connected and are familiar with the key mapping so you can stop the vehicle at any time. Use at your own risk!
