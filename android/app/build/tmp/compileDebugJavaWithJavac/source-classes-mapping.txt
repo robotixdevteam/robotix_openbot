@@ -2,11 +2,11 @@ org/openbot/server/ServerListener.java
  org.openbot.server.ServerListener
 org/openbot/utils/MovingAverage.java
  org.openbot.utils.MovingAverage
-org/openbot/common/CameraFragment.java
- org.openbot.common.CameraFragment
-org/openbot/robot/FreeRoamFragment.java
- org.openbot.robot.FreeRoamFragment
- org.openbot.robot.FreeRoamFragment$1
+org/openbot/vehicle/UsbConnection.java
+ org.openbot.vehicle.UsbConnection
+ org.openbot.vehicle.UsbConnection$1
+org/openbot/utils/MarginItemDecoration.java
+ org.openbot.utils.MarginItemDecoration
 org/openbot/tflite/AutopilotFloat.java
  org.openbot.tflite.AutopilotFloat
 org/openbot/utils/PermissionUtils.java
@@ -33,11 +33,9 @@ org/openbot/env/PhoneController.java
  org.openbot.env.PhoneController$DataReceived
 org/openbot/vehicle/Noise.java
  org.openbot.vehicle.Noise
-org/openbot/logging/LoggerFragment.java
- org.openbot.logging.LoggerFragment
- org.openbot.logging.LoggerFragment$1
- org.openbot.logging.LoggerFragment$2
- org.openbot.logging.LoggerFragment$3
+org/openbot/original/LegacyCameraConnectionFragment.java
+ org.openbot.original.LegacyCameraConnectionFragment
+ org.openbot.original.LegacyCameraConnectionFragment$1
 org/openbot/main/CategoryAdapter.java
  org.openbot.main.CategoryAdapter
  org.openbot.main.CategoryAdapter$ViewHolder
@@ -60,13 +58,12 @@ org/openbot/env/Logger.java
  org.openbot.env.Logger
 org/openbot/databinding/ActivityCameraBinding.java
  org.openbot.databinding.ActivityCameraBinding
-org/openbot/original/DefaultActivity.java
- org.openbot.original.DefaultActivity
- org.openbot.original.DefaultActivity$1
+org/openbot/env/ControllerToBotEventBus.java
+ org.openbot.env.ControllerToBotEventBus
 org/openbot/databinding/FragmentMainBinding.java
  org.openbot.databinding.FragmentMainBinding
-org/openbot/env/SharedPreferencesManager.java
- org.openbot.env.SharedPreferencesManager
+org/openbot/env/BotToControllerEventBus.java
+ org.openbot.env.BotToControllerEventBus
 org/openbot/env/ControllerConfig.java
  org.openbot.env.ControllerConfig
  org.openbot.env.ControllerConfig$VIDEO_SERVER_TYPE
@@ -121,9 +118,8 @@ org/openbot/customview/AutoFitSurfaceGlView.java
  org.openbot.customview.AutoFitSurfaceGlView
 org/openbot/env/IDataReceived.java
  org.openbot.env.IDataReceived
-org/openbot/logging/SensorListAdapter.java
- org.openbot.logging.SensorListAdapter
- org.openbot.logging.SensorListAdapter$ViewHolder
+org/openbot/databinding/FragmentCameraBinding.java
+ org.openbot.databinding.FragmentCameraBinding
 org/openbot/modelManagement/BackHandlingFilePickerActivity.java
  org.openbot.modelManagement.BackHandlingFilePickerActivity
 org/openbot/env/WebRtcServer.java
@@ -142,11 +138,8 @@ org/openbot/model/Category.java
  org.openbot.model.Category
 org/openbot/utils/ConnectionUtils.java
  org.openbot.utils.ConnectionUtils
-org/openbot/objectNav/ObjectNavFragment.java
- org.openbot.objectNav.ObjectNavFragment
- org.openbot.objectNav.ObjectNavFragment$1
- org.openbot.objectNav.ObjectNavFragment$2
- org.openbot.objectNav.ObjectNavFragment$3
+org/openbot/databinding/FragmentLoggerBinding.java
+ org.openbot.databinding.FragmentLoggerBinding
 org/openbot/utils/AndGate.java
  org.openbot.utils.AndGate
  org.openbot.utils.AndGate$Action
@@ -172,10 +165,10 @@ org/openbot/env/RtspServer.java
  org.openbot.env.RtspServer
 org/openbot/modelManagement/BackHandlingFilePickerFragment.java
  org.openbot.modelManagement.BackHandlingFilePickerFragment
-org/openbot/logging/SensorService.java
- org.openbot.logging.SensorService
- org.openbot.logging.SensorService$1
- org.openbot.logging.SensorService$SensorMessageHandler
+org/openbot/utils/PostProcessingEnabler.java
+ org.openbot.utils.PostProcessingEnabler
+ org.openbot.utils.PostProcessingEnabler$1
+ org.openbot.utils.PostProcessingEnabler$PostProcessable
 org/openbot/main/SettingsFragment.java
  org.openbot.main.SettingsFragment
 org/openbot/env/NetworkServiceConnection.java
@@ -225,10 +218,8 @@ org/openbot/original/CameraConnectionFragment.java
  org.openbot.original.CameraConnectionFragment$ErrorDialog$1
 org/openbot/customview/RecognitionScoreView.java
  org.openbot.customview.RecognitionScoreView
-org/openbot/common/ControlsFragment.java
- org.openbot.common.ControlsFragment
- org.openbot.common.ControlsFragment$1
- org.openbot.common.ControlsFragment$2
+org/openbot/utils/DelayedRunner.java
+ org.openbot.utils.DelayedRunner
 org/openbot/modelManagement/ModelAdapter.java
  org.openbot.modelManagement.ModelAdapter
  org.openbot.modelManagement.ModelAdapter$OnItemClickListener
@@ -237,15 +228,12 @@ org/openbot/databinding/ItemCategoryBinding.java
  org.openbot.databinding.ItemCategoryBinding
 org/openbot/utils/Constants.java
  org.openbot.utils.Constants
-org/openbot/logging/SensorsDialog.java
- org.openbot.logging.SensorsDialog
- org.openbot.logging.SensorsDialog$1
+org/openbot/env/ConnectionSelector.java
+ org.openbot.env.ConnectionSelector
 org/openbot/env/SensorReading.java
  org.openbot.env.SensorReading
-org/openbot/autopilot/AutopilotFragment.java
- org.openbot.autopilot.AutopilotFragment
- org.openbot.autopilot.AutopilotFragment$1
- org.openbot.autopilot.AutopilotFragment$2
+org/openbot/databinding/FragmentObjectNavBinding.java
+ org.openbot.databinding.FragmentObjectNavBinding
 org/openbot/customview/OverlayView.java
  org.openbot.customview.OverlayView
  org.openbot.customview.OverlayView$DrawCallback
@@ -281,19 +269,24 @@ org/openbot/env/SimpleSdpObserver.java
  org.openbot.env.SimpleSdpObserver
 org/openbot/customview/ResultsView.java
  org.openbot.customview.ResultsView
-org/openbot/databinding/FragmentObjectNavBinding.java
- org.openbot.databinding.FragmentObjectNavBinding
-org/openbot/env/ControllerToBotEventBus.java
- org.openbot.env.ControllerToBotEventBus
-org/openbot/env/ConnectionSelector.java
- org.openbot.env.ConnectionSelector
-org/openbot/databinding/FragmentLoggerBinding.java
- org.openbot.databinding.FragmentLoggerBinding
-org/openbot/utils/MarginItemDecoration.java
- org.openbot.utils.MarginItemDecoration
-org/openbot/vehicle/UsbConnection.java
- org.openbot.vehicle.UsbConnection
- org.openbot.vehicle.UsbConnection$1
+org/openbot/logging/SensorService.java
+ org.openbot.logging.SensorService
+ org.openbot.logging.SensorService$1
+ org.openbot.logging.SensorService$SensorMessageHandler
+org/openbot/common/ControlsFragment.java
+ org.openbot.common.ControlsFragment
+ org.openbot.common.ControlsFragment$1
+ org.openbot.common.ControlsFragment$2
+org/openbot/env/SharedPreferencesManager.java
+ org.openbot.env.SharedPreferencesManager
+org/openbot/logging/SensorListAdapter.java
+ org.openbot.logging.SensorListAdapter
+ org.openbot.logging.SensorListAdapter$ViewHolder
+org/openbot/logging/LoggerFragment.java
+ org.openbot.logging.LoggerFragment
+ org.openbot.logging.LoggerFragment$1
+ org.openbot.logging.LoggerFragment$2
+ org.openbot.logging.LoggerFragment$3
 org/openbot/original/CameraActivity.java
  org.openbot.original.CameraActivity
  org.openbot.original.CameraActivity$1
@@ -306,16 +299,23 @@ org/openbot/original/CameraActivity.java
  org.openbot.original.CameraActivity$8
  org.openbot.original.CameraActivity$9
  org.openbot.original.CameraActivity$ControllerHandler
-org/openbot/original/LegacyCameraConnectionFragment.java
- org.openbot.original.LegacyCameraConnectionFragment
- org.openbot.original.LegacyCameraConnectionFragment$1
-org/openbot/databinding/FragmentCameraBinding.java
- org.openbot.databinding.FragmentCameraBinding
-org/openbot/env/BotToControllerEventBus.java
- org.openbot.env.BotToControllerEventBus
-org/openbot/utils/DelayedRunner.java
- org.openbot.utils.DelayedRunner
-org/openbot/utils/PostProcessingEnabler.java
- org.openbot.utils.PostProcessingEnabler
- org.openbot.utils.PostProcessingEnabler$1
- org.openbot.utils.PostProcessingEnabler$PostProcessable
+org/openbot/common/CameraFragment.java
+ org.openbot.common.CameraFragment
+org/openbot/robot/FreeRoamFragment.java
+ org.openbot.robot.FreeRoamFragment
+ org.openbot.robot.FreeRoamFragment$1
+org/openbot/objectNav/ObjectNavFragment.java
+ org.openbot.objectNav.ObjectNavFragment
+ org.openbot.objectNav.ObjectNavFragment$1
+ org.openbot.objectNav.ObjectNavFragment$2
+ org.openbot.objectNav.ObjectNavFragment$3
+org/openbot/logging/SensorsDialog.java
+ org.openbot.logging.SensorsDialog
+ org.openbot.logging.SensorsDialog$1
+org/openbot/original/DefaultActivity.java
+ org.openbot.original.DefaultActivity
+ org.openbot.original.DefaultActivity$1
+org/openbot/autopilot/AutopilotFragment.java
+ org.openbot.autopilot.AutopilotFragment
+ org.openbot.autopilot.AutopilotFragment$1
+ org.openbot.autopilot.AutopilotFragment$2

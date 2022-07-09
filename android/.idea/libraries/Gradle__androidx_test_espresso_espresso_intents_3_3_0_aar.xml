@@ -2,7 +2,6 @@
   <library name="Gradle: androidx.test.espresso:espresso-intents:3.3.0@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c6b950ddefb8c3d92411ee7fc0f027d0/espresso-intents-3.3.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c6b950ddefb8c3d92411ee7fc0f027d0/espresso-intents-3.3.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c6b950ddefb8c3d92411ee7fc0f027d0/espresso-intents-3.3.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>

@@ -13,6 +13,8 @@ INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:85:9-93:20
 manifest
 ADDED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:1-97:12
 INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:1-97:12
 MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\e7aad8b219ab75ee68d1914f31022543\jetified-viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\fa5ebd59b7e6f9464e8c4c87ffa0f90a\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\7dec816298be0497e0f599cfb2514ffd\material-1.4.0\AndroidManifest.xml:17:1-24:12
@@ -108,9 +110,19 @@ MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] C:\Users\ro
 MERGED from [com.github.pedroSG94.rtmp-rtsp-stream-client-java:rtmp:2.0.2] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\5b323fb1f35d23f169e0dc4709de83ff\jetified-rtmp-2.0.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\robot\.gradle\caches\transforms-2\files-2.1\1af2d3882d1011a74dc944e07f81ea2e\jetified-androidasync-3.1.0\AndroidManifest.xml:2:1-16:12
 INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:1-97:12
 	package
 		ADDED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:3:5-26
 		INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:1-97:12
 		INJECTED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\One\OpenBot\android\app\src\main\AndroidManifest.xml:2:11-69

@@ -9,6 +9,7 @@ public class SharedPreferencesManager {
 
   private static final String PREFERENCES_NAME = "openbot_settings";
   private static final int DEFAULT_BAUD_RATE = 115200;
+//  private static final int DEFAULT_BAUD_RATE = 19200;
   private static final String BAUD_RATE = "BAUD_RATE";
   private static final int DEFAULT_LOG_MODE = Enums.LogMode.CROP_IMG.ordinal();
   private static final String LOG_MODE = "LOG_MODE";

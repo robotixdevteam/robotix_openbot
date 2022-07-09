@@ -9,8 +9,10 @@ android {
         applicationId "org.openbot"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode getVersionCode()
-        versionName getVersionName()
+//        versionCode getVersionCode()
+//        versionName getVersionName()
+        versionCode 1
+        versionName '1.0'
         ndk {
             abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64'
         }
@@ -19,6 +21,23 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        // add the code from below line
+        applicationVariants.all{
+                // this method is use to rename your all apk weather
+                // it may be signed or unsigned(debug apk)
+            variant ->
+                variant.outputs.each{
+                        // on below line we are setting
+                        // a name to our apk as GFG.apk
+                    output->
+                        // on below line we are adding version name to
+                        // our .apk file along with the app name
+                        def name = "openbot-${variant.versionName}.apk"
+                        // on below line we are setting the
+                        // outputFile Name to our apk file
+                        output.outputFileName = name
+                }
         }
     }
 
@@ -149,6 +168,6 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.6'
 }
 
-println("Version Code: " + getVersionCode())
-println("Version Name: " + getVersionName())
+//println("Version Code: " + getVersionCode())
+//println("Version Name: " + getVersionName())
 

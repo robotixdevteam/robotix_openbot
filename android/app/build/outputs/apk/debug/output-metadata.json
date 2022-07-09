@@ -10,9 +10,9 @@
     {
       "type": "SINGLE",
       "filters": [],
-      "versionCode": 0,
-      "versionName": "",
-      "outputFile": "app-debug.apk"
+      "versionCode": 1,
+      "versionName": "1.0",
+      "outputFile": "openbot-1.0.apk"
     }
   ]
 }
