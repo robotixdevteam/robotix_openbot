@@ -19,7 +19,7 @@ The app starts with a menu screen that shows all available screens. The settings
 
 ### Default
 
-The [DefaultActivity](src/main/java/org/openbot/original/DefaultActivity.java) includes the most important features of the OpenBot app in a single screen. It displays the connection status to the vehicle and reports measurements from vehicle sensors. The robot can be controlled by standard BT game controllers or another smartphone running the OpenBot [controller app](../controller). We have also implemented a data logger to collect datasets with the robot. Currently, we record readings from following sensors: camera, gyroscope, accelerometer, magnetometer, ambient light sensor, and barometer. Using the Android API, we are able to obtain the following sensor readings: RGB images, angular speed, linear acceleration, gravity, magnetic field strength, light intensity, atmospheric pressure, latitude, longitude, altitude, bearing, and speed. In addition to the phone sensors, we record body sensor readings (wheel odometry, obstacle distance and battery voltage), which are transmitted via the serial link. We also record and timestamp control signals received from a connected controller, if present. Lastly, we integrate several neural networks for person following and autonomous navigation.
+The [DefaultActivity](src/main/java/org/openbot/original/DefaultActivity.java) includes the most important features of the OpenBot app in a single screen. It displays the connection status to the vehicle and reports measurements from vehicle sensors. We have also implemented a data logger to collect datasets with the robot. Currently, we record readings from following sensors: camera, gyroscope, accelerometer, magnetometer, ambient light sensor, and barometer. Using the Android API, we are able to obtain the following sensor readings: RGB images, angular speed, linear acceleration, gravity, magnetic field strength, light intensity, atmospheric pressure, latitude, longitude, altitude, bearing, and speed. In addition to the phone sensors, we record body sensor readings (wheel odometry, obstacle distance and battery voltage), which are transmitted via the serial link. We also record and timestamp control signals received from a connected controller, if present. Lastly, we integrate several neural networks for person following and autonomous navigation.
 
 <p align="left">
   <img src="../../docs/images/screen_default.jpg" alt="App GUI" width="50%"/>
@@ -129,14 +129,6 @@ Simple UI for collection of data sets.
 
 - **Model Resolution**: Used to switch between resolutions of images saved for training different models.
 
-### Controller Mapping
-
-Simple UI to check the button and joystick mapping of a connected BT controller.
-
-<p align="left">
-<img src="../../docs/images/screen_controller_mapping.jpg" alt="Alt text" width="50%" />
-</p>
-
 ### Autopilot
 
 Simple UI for running autopilot models.
@@ -216,10 +208,6 @@ Tiny version of YoloV4 with input resolution of 416x416.
 | Huawei P30 Pro   | 8.4 | 7.6 |  6.9  |
 | Google Pixel 6XL |  10 | 9.6 |  7.2  |
 | Xiaomi Mi9       | 9.0 | 7.3 |  5.0  |
-
-## Add your own fragment
-
-Please refer to the [ContributionGuide](ContributionGuide.md) to learn how to add your own fragments to the OpenBot app.
 
 ## Code Structure
 
