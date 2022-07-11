@@ -42,6 +42,8 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
  - OS: [e.g. Windows, Linux]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
+ 
+ **(Note: In Windows, Turn-off Firewall when connecting to Phone)**
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. Motorola G51]
